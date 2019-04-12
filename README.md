@@ -12,4 +12,4 @@ How to setup the environment:
    PATH += C:\lispbox\ccl;C:\lispbox\emacs\bin;
 3. replace the ecmas init file  ".emacs"
    replace the content  C:/Users/{username}/AppData/Roaming/.emacs  with  C:/lispbox/How-to-setup/configured.emacs
-   <br />if the .emacs file doesn't exist, run the lispbox.bat, change some items below menu "Options", and "Save Options", then the .emacs will created.
+   <br />if the .emacs file doesn't exist, run the lispbox.bat, change some items below menu "Options", and "Save Options", then the .emacs will be created.
